@@ -1,9 +1,9 @@
 # LearnYouNode Tutorial Solutions
 
-Install learnyounode using
+Install learnyounode and coffee-script using
 
 ```
-npm install
+npm install -g learnyounode && npm install
 ```
 
 in this directory, then run
